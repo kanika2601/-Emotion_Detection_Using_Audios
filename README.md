@@ -20,4 +20,4 @@ In this project, we perform a comparative analysis of various deep learning algo
 ## 🏆 Results
 - The **CNN model** with spectrogram features and the **RNN model** with MFCC features achieved the highest accuracy of **61%**.
 
-## 📂 Project Structure
+
